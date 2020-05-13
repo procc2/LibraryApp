@@ -1,0 +1,119 @@
+PODS:
+  - AEXML (4.3.3)
+  - epub_kitty (0.0.1):
+    - epub_kitty_ios (= 0.1.0)
+    - Flutter
+  - epub_kitty_ios (0.1.0):
+    - AEXML (= 4.3.3)
+    - FontBlaster (= 4.1.0)
+    - MenuItemKit (= 3.1.3)
+    - RealmSwift (= 3.17.3)
+    - SSZipArchive (= 2.1.1)
+    - ZFDragableModalTransition (= 0.6)
+  - esys_flutter_share (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - FontBlaster (4.1.0)
+  - MenuItemKit (3.1.3)
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - "permission_handler (4.4.0+hotfix.4)":
+    - Flutter
+  - Realm (3.17.3):
+    - Realm/Headers (= 3.17.3)
+  - Realm/Headers (3.17.3)
+  - RealmSwift (3.17.3):
+    - Realm (= 3.17.3)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - SSZipArchive (2.1.1)
+  - ZFDragableModalTransition (0.6)
+
+DEPENDENCIES:
+  - epub_kitty (from `.symlinks/plugins/epub_kitty/ios`)
+  - esys_flutter_share (from `.symlinks/plugins/esys_flutter_share/ios`)
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AEXML
+    - epub_kitty_ios
+    - FMDB
+    - FontBlaster
+    - MenuItemKit
+    - Realm
+    - RealmSwift
+    - SSZipArchive
+    - ZFDragableModalTransition
+
+EXTERNAL SOURCES:
+  epub_kitty:
+    :path: ".symlinks/plugins/epub_kitty/ios"
+  esys_flutter_share:
+    :path: ".symlinks/plugins/esys_flutter_share/ios"
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  shared_preferences_macos:
+    :path: ".symlinks/plugins/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: ".symlinks/plugins/shared_preferences_web/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+
+SPEC CHECKSUMS:
+  AEXML: 601f41fcaa7bda7605cad153b0f43db9ec006c0f
+  epub_kitty: ce7eb23730a1b8865a09f52278e62e21a1804bbf
+  epub_kitty_ios: 0b9c1a496047dd170d30b320e3cdcc0d0e3278d1
+  esys_flutter_share: 403498dab005b36ce1f8d7aff377e81f0621b0b4
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  FontBlaster: 127aa66419478d1c62926c7fdb39841633344a45
+  MenuItemKit: 0f850e630b0a3d2bd80fec54db87ce0d2077ada2
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  permission_handler: 8278954f2382902f63f00dd8828769c0bd6d511b
+  Realm: 5a1d9d47bfc101dd597668b1a8af4288a2557f6d
+  RealmSwift: b7fdc2d18616621c31df5c7a398a45a2163f8eb0
+  shared_preferences: 430726339841afefe5142b9c1f50cb6bd7793e01
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  SSZipArchive: 14401ade5f8e82aba1ff03e9f88e9de60937ae60
+  ZFDragableModalTransition: 0d294eaaba6edfcb9839595de765f9ca06a4b524
+
+PODFILE CHECKSUM: 9ec0b926d741f3b13993aceabf2687bc78d2468b
+
+COCOAPODS: 1.9.0
